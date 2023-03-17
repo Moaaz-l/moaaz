@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App2 {
+  margin-top: 19px;
+  margin-right: 32px;
+}
+.App3 {
+  margin-top: 19px;
+  margin-right: 90px;
+}
+.App4 {
+  margin-top: 11px;
+  width: 100px;
+  height: 20px;
+  margin-right: 40px;
+}
+.App5 {
+  margin-top: 19px;
+}
+.moaw {
+  height: 40px;
+  background: chartreuse;
+  width: 450px;
+  margin-left: 90px;
+}
